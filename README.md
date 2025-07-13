@@ -21,7 +21,7 @@ Questo repository contiene un'applicazione in Python che simula il flusso produt
 - `UT.py`  
   Raccolta di funzioni ausiliarie (gestione ordini, scarti, stock, CSV, ecc.)
 - `HLP.py`  
-  Visualizzazione parametri e legenda da grafica terminale durante l’esecuzione.
+  Visualizzazione dei parametri e legenda da grafica terminale durante l’esecuzione.
 - `Dashboard.py`  
   Dashboard per l’analisi grafica.
 - `PRODOTTI.csv`  
