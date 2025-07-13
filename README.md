@@ -7,10 +7,10 @@ Questo repository contiene un'applicazione in Python che simula il flusso produt
 
 ## 👤 Autore
 
-**Nome e Cognome**: Simone Tartari
-**Matricola**: 0312201761
-**Corso di Laurea**: Informatica per le Aziende Digitali (L-31)  
-**Anno Accademico**: 2024/2025
+- **Nome e Cognome**: Simone Tartari
+- **Matricola**: 0312201761
+- **Corso di Laurea**: Informatica per le Aziende Digitali (L-31)  
+- **Anno Accademico**: 2024/2025
 
 ## 🗂️ Struttura del repository
 
