@@ -12,6 +12,10 @@ Questo repository contiene un'applicazione in Python che simula il flusso produt
 - **Corso di Laurea**: Informatica per le Aziende Digitali (L-31)  
 - **Anno Accademico**: 2024/2025
 
+- **Titolo del tema**: La digitalizzazione dell’impresa
+- **Titolo della traccia**: Sviluppo di un codice Python per simulare un processo produttivo nel settore secondario
+- **Titolo dell'elaborato**: “Sempre più in Alto!”
+
 ## 🗂️ Struttura del repository
 
 - `DB.py`  
