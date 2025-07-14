@@ -26,7 +26,7 @@ Questo repository contiene un'applicazione in Python che simula il flusso produt
 - `DG.py`  
   Contiene la funzione `DataGenerator` per generare i dati settimanali.
 - `UT.py`  
-  Raccolta di funzioni ausiliarie (gestione ordini, scarti, stock, CSV, ecc.)
+  Raccolta di funzioni ausiliarie (gestione ordini, scarti, stock, csv, ecc.)
 - `HLP.py`  
   Visualizzazione dei parametri e legenda da grafica terminale durante l’esecuzione.
 - `Dashboard.py`  
