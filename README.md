@@ -71,7 +71,7 @@ Una volta avviata, sarà possibile:
 - 🔁 Parametri configurabili: capacità produttiva e logistica variabile, overstock, controllo qualità
 - 📊 Dashboard Streamlit con grafici, filtri e indicatori chiave
 - 🧪 Verifica settimanale della coerenza dei dati (check `ck = 0`)
-- 📁 Output esportabile in CSV per ulteriori analisi
+- 📁 Output esportabile in csv per ulteriori analisi
 
 ## 📈 Esempio di flusso simulato
 
